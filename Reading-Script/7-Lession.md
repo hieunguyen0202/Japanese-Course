@@ -11,4 +11,4 @@
 
 #### Part 2
 
-Tôi sẽ trở về nước vào tuần tới. Tôi sẽ trả lại xe đạp cho người ở công ty vào hôm nay. 
+Tôi sẽ trở về nước vào tuần tới. Tôi sẽ trả lại xe đạp cho người ở công ty vào hôm nay. Tôi đã tặng bạn và ti vi cho bạn. Nhưng tôi đã không tặng áo khoác. Chiều cao của tôi là 165cm. Chiều cao của bạn tôi là 2m.
