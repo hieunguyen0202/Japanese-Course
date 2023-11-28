@@ -46,9 +46,9 @@
 - A. Bây giờ, tôi sẽ làm phiếu thăm dò về du lịch.
   - 今、私は　りょこうの　アンケートをします。
 - B. Vâng, được đấy ạ。
-  - はい、そうです。
+  - はい、そうです。・いいですよ
 - A. Xin lỗi, tên của bạn là gì ?
-  -　しつれですが、おなまえは？ 
+  -　しつれいですが、おなまえは？ 
 - B. A ạ
   -　A さん 
 - A. A san, xin lỗi, bạn bao nhiêu tuổi vậy ?
