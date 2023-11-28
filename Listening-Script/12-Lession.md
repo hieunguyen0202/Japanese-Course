@@ -7,7 +7,7 @@
 - C. Không, Tên suzuki nhiều hơn tanaka đấy.
   - いいえ、 たなかさん より すずきさん のほうが おおい ですよ。
 - A. Vâng, đúng . Nhưng, Sato San là nhiều hơn suzuki đấy.
-  - はい、 そうです。 でも、 すずきさん より さとさんのほが おおいですよ。
+  - はい、 そうです。 でも、 (すずきさん より さとさんのほが おおいですよ。 / さちさん は すずきさん より おおいですよ。)
 - B. Vậy à.
   - そうですか？
 - C. Vậy thì tên nhiều nhất là ...
@@ -20,7 +20,7 @@
 - C: Không , là đá bóng đấy.
   - いいえ、 サツカ- ですよ。
 - A: Đúng rồi nhỉ. Người Nhật thích bóng đá hơn sumo nhỉ.
-  - そうですね。 にほんじん は すもう より  サツカ- が すきですね。
+  - そうですね。 にほんじん は すもう より  サツカ- のほうが すきですね。
 - B: Vậy thì, bóng đá phải không ?
   - じや、 サツカ-ですか ？
 - A: Nhưng, thích bóng chày hơn bóng đá đấy.
@@ -43,7 +43,7 @@
    
 ### Câu 4
 #### Mẫu
-- A. Bây giờ, tôi sẽ làm phiếu thăm dò về du lịch.  
+- A. Bây giờ, tôi sẽ làm phiếu thăm dò về du lịch.
 - B. Vâng, được đấy ạ.
 - A. Xin lỗi, tên của bạn là gì ?
 - B. A ạ
