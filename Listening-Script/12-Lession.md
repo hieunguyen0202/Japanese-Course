@@ -29,11 +29,17 @@
   - ふ-ん。
 #### 2) 
 - A: Tháng 4,6,9 của Nhật Bản, tháng nào nhiều mưa nhất ?
+  - にほんの 4がつ と 6がつ と  9がつ と、 いつが いちばん あめ が おおいですか？
 - B: Tháng 6. Vì là mùa mưa
+  - 6がつ。 あめ の きせつ ですから。
 - A: Đúng rồi nhĩ. Tháng 6 là nhiều mưa hơn tháng 4 đấy.
+  - そうですね。 6がつは 4がつ より あめが おおいですよ。
 - B: Vậy , tháng 6  là mưa nhiều nhất nhỉ.
+  - じや、 6がつ は あめが いちばん おおいですね。
 - A: Không phải, tháng 6 thì mưa ít hơn tháng 9 đấy.
-- BC: Vậy sao!  
+  - いいえ、 6がつ は 9がつ より あめが すくないですよ。
+- BC: Vậy sao!
+  - へえ？
    
 ### Câu 4
 #### Mẫu
