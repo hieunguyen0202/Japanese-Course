@@ -1,25 +1,32 @@
 ### Câu 3
 #### Mẫu
 - A. Nào, chúng ta cùng chơi trò đố thôi. Thứ nhất, trong các tên của người Nhật, tên nào nhiều nhất vậy ?
--さあ、 くいずを しましょう。 1ばん、 にほんじん の なまえ で どんな なまえ が いちばん おおいですか ？
+ - さあ、 くいずを しましょう。 1ばん、 にほんじん の なまえ で どんな なまえ が いちばん おおいですか ？
 - B. Tanaka SAN là nhiều nhất. Có 6 người tên Tanaka ở trong trường này đấy
-- たなか さん が  いちばん おおいです。 このがつこう に たなかさんが 6にん いますよ。
+ - たなか さん が  いちばん おおいです。 このがつこう に たなかさんが 6にん いますよ。
 - C. Không, Tên suzuki nhiều hơn tanaka đấy.
-- いいえ、 たなかさん より すずきさん のほうが おおい ですよ。
+ - いいえ、 たなかさん より すずきさん のほうが おおい ですよ。
 - A. Vâng, đúng . Nhưng, Sato San là nhiều hơn suzuki đấy.
-- はい、 そうです。 でも、 すずきさん より さとさんのほが おおいですよ。
+ - はい、 そうです。 でも、 すずきさん より さとさんのほが おおいですよ。
 - B. Vậy à.
  - そうですか？
 - C. Vậy thì tên nhiều nhất là ...
-- じや、 いちばん おおい なまえ は。。。
+ - じや、 いちばん おおい なまえ は。。。
 #### 1)
 - A: Câu hỏi tiếp theo. Người Nhật thích môn gì nhất trong thể thao ?
+ - つぎ の しつもん です。  にほんじんは スポ-ツで なにが いちばん すきですか ？
 - B: Thích đấu vật Sumo nhất. Vì Sumo là môn thể thao của Nhật Bản
+ - すもう が いちばん すきです。 すもうは にほんの スポ-ツ ですから。
 - C: Không , là đá bóng đấy.
+  - いいえ、 サツカ- ですよ。
 - A: Đúng rồi nhỉ. Người Nhật thích bóng đá hơn sumo nhỉ.
+  - そうですね。 にほんじん は すもう より  サツカ- が すきですね。
 - B: Vậy thì, bóng đá phải không ?
+  - じや、 サツカ-ですか ？
 - A: Nhưng, thích bóng chày hơn bóng đá đấy.
+  - でも、 サツカ- より やきゅう のほうが すきですよ。
 - BC: Um...
+  - ふ-ん。
 #### 2) 
 - A: Tháng 4,6,9 của Nhật Bản, tháng nào nhiều mưa nhất ?
 - B: Tháng 6. Vì là mùa mưa
