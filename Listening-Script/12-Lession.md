@@ -61,7 +61,9 @@
   -　アジアがすきですから、アジアのいろいろな国へ行きました。 
 #### 1)
 - A: Bạn thấy ở đâu là đẹp nhất?
-- B: Um, Hàn Quốc rất là đẹp. Singapore cũng đẹp. Nhưng Việt Nam là đẹp nhất nhĩ 
+  -　どこが　いちばん　きれいですか？ 
+- B: Um, Hàn Quốc rất là đẹp. Singapore cũng đẹp. Nhưng Việt Nam là đẹp nhất nhĩ
+  -　ふんー、かんごくが　とても　きれいです。シガポイントがもきれいです。でも、ベトナムが　いちばん　きれいですね。
 #### 2) 
 - A: Ở đâu có đồ ăn ngon nhất ? Đồ ăn Thái phải không? Hay món ăn Trung Quốc 
 - B: Ừ, so với đồ ăn Trung Quốc thì....
