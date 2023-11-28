@@ -1,1 +1,85 @@
-# Japanese-Course
+# New words
+### Lession 13
+#### Test 1
+- Chơi
+- Bơi
+- đón
+- Mệt
+- kết hôn
+- Mua hàng
+- Ăn cơm
+- Đi dạo
+- Tính từ vất vả
+- Muốn có
+- Tính từ rộng
+- Tính từ chật, hẹp
+- Sông
+- Mỹ thuật
+- việc câu cá
+- Cuối tuần
+- Tết
+- Cái gì đó
+- Tôi khát
+- Tối đói rồi
+- Nhất trí  , chúng ta thống nhất thế
+- Cơm suất, cơm phần
+- Món cơm thịt bò
+- Xin anh chị vui lòng đợi một chút
+- Cách nói lịch sự của de su
+- riêng ra/ để riêng
+
+#### Test 2
+- Chơi
+- Bơi
+- đón
+- Mệt
+- kết hôn
+- Mua hàng
+- Ăn cơm
+- Đi dạo
+- Tính từ vất vả
+- Muốn có
+- Tính từ rộng
+- Tính từ chật, hẹp
+- Sông
+- Mỹ thuật
+- việc câu cá
+- Cuối tuần
+- Tết
+- Cái gì đó
+- Tôi khát
+- Tối đói rồi
+- Nhất trí  , chúng ta thống nhất thế
+- Cơm suất, cơm phần
+- Món cơm thịt bò
+- Xin anh chị vui lòng đợi một chút
+- Cách nói lịch sự của de su
+- riêng ra/ để riêng
+
+#### Test 3
+- Chơi
+- Bơi
+- đón
+- Mệt
+- kết hôn
+- Mua hàng
+- Ăn cơm
+- Đi dạo
+- Tính từ vất vả
+- Muốn có
+- Tính từ rộng
+- Tính từ chật, hẹp
+- Sông
+- Mỹ thuật
+- việc câu cá
+- Cuối tuần
+- Tết
+- Cái gì đó
+- Tôi khát
+- Tối đói rồi
+- Nhất trí  , chúng ta thống nhất thế
+- Cơm suất, cơm phần
+- Món cơm thịt bò
+- Xin anh chị vui lòng đợi một chút
+- Cách nói lịch sự của de su
+- riêng ra/ để riêng
