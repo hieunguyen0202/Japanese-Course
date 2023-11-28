@@ -75,7 +75,12 @@
   -　かんごくのりょうりが　いちばん　おいしかったですね。 
 #### 3)
 - A: Sano SAN, ông đã xem nhiều thứ đồ vật rồi nhĩ. Cái gì là thú vị nhất vậy ?
+  -　さのさん、いろいろなものを見ましたね。なにが　いちばん　おもしろかったですか？ 
 - B: Đúng rồi nhĩ, Vì tôi đã xem nhiều rồi nhĩ . Nhưng ...
+  -　そうですね。たくさん　見ましたからね。でも。。。。  
 - A: Cái gì á ?
+  -　何ですか？ 
 - B: Theo tôi thì điệu nhãy Indonesia là thú vị nhất nhĩ . Âm nhạc cũng hay nữa đấy.
-- A: Vậy à , hôm nay thật sự cảm ơn ông rất nhiều 
+  -　インドネシアのダンスが　いちばん　おもしろかったですね。　おんがくも　よかったですよ。 
+- A: Vậy à , hôm nay thật sự cảm ơn ông rất nhiều
+  -　そうですか？　きょうは　どうもありがとうございました。 
