@@ -1,11 +1,17 @@
 ### Câu 3
 #### Mẫu
 - A. Nào, chúng ta cùng chơi trò đố thôi. Thứ nhất, trong các tên của người Nhật, tên nào nhiều nhất vậy ?
+-さあ、 くいずを しましょう。 1ばん、 にほんじん の なまえ で どんな なまえ が いちばん おおいですか ？
 - B. Tanaka SAN là nhiều nhất. Có 6 người tên Tanaka ở trong trường này đấy
+- たなか さん が  いちばん おおいです。 このがつこう に たなかさんが 6にん いますよ。
 - C. Không, Tên suzuki nhiều hơn tanaka đấy.
+- いいえ、 たなかさん より すずきさん のほうが おおい ですよ。
 - A. Vâng, đúng . Nhưng, Sato San là nhiều hơn suzuki đấy.
+- はい、 そうです。 でも、 すずきさん より さとさんのほが おおいですよ。
 - B. Vậy à.
+ - そうですか？
 - C. Vậy thì tên nhiều nhất là ...
+- じや、 いちばん おおい なまえ は。。。
 #### 1)
 - A: Câu hỏi tiếp theo. Người Nhật thích môn gì nhất trong thể thao ?
 - B: Thích đấu vật Sumo nhất. Vì Sumo là môn thể thao của Nhật Bản
