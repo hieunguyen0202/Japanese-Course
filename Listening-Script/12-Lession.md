@@ -44,13 +44,21 @@
 ### Câu 4
 #### Mẫu
 - A. Bây giờ, tôi sẽ làm phiếu thăm dò về du lịch.
-- B. Vâng, được đấy ạ.
+  - 今、私は　りょこうの　アンケートをします。
+- B. Vâng, được đấy ạ。
+  - はい、そうです。
 - A. Xin lỗi, tên của bạn là gì ?
+  -　しつれですが、おなまえは？ 
 - B. A ạ
+  -　A さん 
 - A. A san, xin lỗi, bạn bao nhiêu tuổi vậy ?
+  -　Aさん、しつれですが、おいくつですか　？ 
 - B. 75 tuổi
+  -　７５さいです。 
 - A: vâng, ông khỏe nhĩ. A san, cho đến bây giờ bạn đã đi đến đất nước nào rồi ?
-- B: Vì tôi thích châu Á nên tôi đã đi nhiều nước của châu Á 
+  -　はい、おげんきですね。Aさん　これから　どんな国　へ行きましたか？ 
+- B: Vì tôi thích châu Á nên tôi đã đi nhiều nước của châu Á
+  -　アジアがすきですから、アジアのいろいろな国へ行きました。 
 #### 1)
 - A: Bạn thấy ở đâu là đẹp nhất?
 - B: Um, Hàn Quốc rất là đẹp. Singapore cũng đẹp. Nhưng Việt Nam là đẹp nhất nhĩ 
