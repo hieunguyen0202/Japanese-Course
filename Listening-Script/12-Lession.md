@@ -63,12 +63,16 @@
 - A: Bạn thấy ở đâu là đẹp nhất?
   -　どこが　いちばん　きれいでしたか？ 
 - B: Um, Hàn Quốc rất là đẹp. Singapore cũng đẹp. Nhưng Việt Nam là đẹp nhất nhĩ
-  -　ふんー、かんごくが　とても　きれいでした。シガポイントがもきれいでした。でも、ベトナムが　いちばん　きれいでしたね。
+  -　ふんー、かんごく　は　とても　きれいでした。シンガポール　も　きれいでした。でも、ベトナムが　いちばん　きれいでしたね。
 #### 2) 
-- A: Ở đâu có đồ ăn ngon nhất ? Đồ ăn Thái phải không? Hay món ăn Trung Quốc 
+- A: Ở đâu có đồ ăn ngon nhất ? Đồ ăn Thái phải không? Hay món ăn Trung Quốc
+  -　どこで　りょうりが　いちばん　おいしかったですか？　タイ　の　りょうり　ですか？　ちゅうごく　の　りょうり　ですか？ 
 - B: Ừ, so với đồ ăn Trung Quốc thì....
+  - はい、ちゅうごく　の　りょうり　より　は。。。
 - A: Vâng , mọi người đò ăn Trung Quốc là ngon nhất đấy
+  -　はい、ちゅうごく　の　りょうりが　いちばん　おいしかったですよ。 
 - B: Tôi thì thấy đồ ăn Hàn Quốc là ngon nhất nhĩ.
+  -　かんごくのりょうりが　いちばん　おいしかったですね。 
 #### 3)
 - A: Sano SAN, ông đã xem nhiều thứ đồ vật rồi nhĩ. Cái gì là thú vị nhất vậy ?
 - B: Đúng rồi nhĩ, Vì tôi đã xem nhiều rồi nhĩ . Nhưng ...
