@@ -68,7 +68,7 @@
 - A: Ở đâu có đồ ăn ngon nhất ? Đồ ăn Thái phải không? Hay món ăn Trung Quốc
   -　どこで　りょうりが　いちばん　おいしかったですか？　タイ　の　りょうり　ですか？　ちゅうごく　の　りょうり　ですか？ 
 - B: Ừ, so với đồ ăn Trung Quốc thì....
-  - はい、ちゅうごく　の　りょうり　より　は。。。
+  - うーん、ちゅうごく　の　りょうり　より　は。。。
 - A: Vâng , mọi người đò ăn Trung Quốc là ngon nhất đấy
   -　はい、ちゅうごく　の　りょうりが　いちばん　おいしかったですよ。 
 - B: Tôi thì thấy đồ ăn Hàn Quốc là ngon nhất nhĩ.
