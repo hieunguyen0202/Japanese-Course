@@ -110,5 +110,23 @@
 - A: Đến để du lịch phải không
 - B: Không phải, công việc á . Tôi đến để dạy tiếng Nhât
 - A: Vậy à . Bạn dạy ở đâu vậy ?
-- B: Tôi dạy cho bọn trẻ ở trường học trong thành phố này
+- B: Tôi dạy cho bọn trẻ ở trường học của thành phố này
+##### 1)
+- A: Xin lỗi, thành phố này là lần đầu tiên bạn đến phải không ?
+- B: Vâng
+- A: Công việc của bạn là gì ?
+- B: Vâng, tôi là nghiên cứu sinh. Tôi đến để nghiên cứu về mỹ thuật
+- A: Vậy à
+##### 2)
+- A: Dạ, bạn đến cho du lịch hay là công việc ?
+- B: Tôi đến để học âm nhạc
+- A: À, Bạn là học sinh đúng không ?
+- B: Vâng, vì có một giáo viên nổi tiếng ở thành phố này nên tôi đến học ca hát
+- A: Vậy à ?
+##### 3)
+- A: Vâng, xin lỗi, bạn đến để du lịch hả ?
+- B: không phải, vì công việc . vì tôi muốn viết sách về du lịch nên tôi đã đi đến để xem nhiều thành phố
+- A: Bạn ở đây khoảng mấy ngày á ?
+- B: Tôi ở đây 2 tuần. Vì cũng muốn chụp nhiều ảnh
+- A: Vậy thì , bạn bận rộn nhĩ !
    
