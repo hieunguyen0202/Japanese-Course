@@ -53,6 +53,33 @@
 - A: Vậy à ?
 #### Câu 2
 ##### Mẫu
+- A: tanakasan, hôm nay bạn làm gì vậy ?
+- B: ừ nhĩ. Tôi muốn xem tranh
+- A: Vậy thì, chúng ta cùng đến bảo tàng mỹ thuật nhé. Vì có nhiều tranh nổi tiếng. 
+##### 1)
+- A: Đã 12 giờ rồi nhĩ. Cùng nhau ăn cơm trưa không ?
+- B: Vâng
+- A: Thích làm/ăn gì không ?
+- B: Ừ nhĩ, thích ăn món cá.
+- A: Vậy thì, có nhà hàng món cá ngon đấy
 
+##### 2)
+- B: Wa, ngon nhĩ. Nhà hàng tuyệt vời nhĩ.
+- A: Vâng, tốt nhĩ. Từ giờ, sẽ đi đâu ?
+- B: Tôi muốn đi dạo một chút. Tôi cũng muốn chụp ảnh thành phố cổ nữa.
+- A: Vậy thì, chúng ta cùng nhau đi dạo một chút thôi
+
+##### 3)
+- A: Um, mình muốn mua quà tăng nhưng cái nào được nhĩ.
+- B: Có đa dạng đấy. Đồ ăn, áo , giày ...
+- A: Ừ nhĩ. Tôi muốn có một cái áo tuyệt vời.
+- B: Tôi hiểu rồi. Vậy thì, cũng nhau đi thôi.
+##### 4)
+- A: Tôi đã khát nước rồi. Cũng nhau uống gì đó không ?
+- B: Vâng, bia của thành phố này nổi tiếng nhĩ
+- A: Bia màu đen nhĩ. Ngon đấy
+- B: Vậy thì, tôi muốn uống bia màu đen
+- A: Vậy thì, cũng nhau uống thôi.
+   
 #### Câu 3
 #### Câu 4
