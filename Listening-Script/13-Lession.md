@@ -30,7 +30,9 @@
 
 ### Luyện nghe
 #### Câu 1
-
+- A: koyamasan, công việc của bạn như thế nào ?
+- B: Bận rộn mỗi ngày đấy. Thứ 7 cũng làm việc, CN cũng làm . Tôi muốn có ngày nghỉ
+- A: Vậy à?. Vất vả nhĩ. 
 #### Câu 2
 #### Câu 3
 #### Câu 4
