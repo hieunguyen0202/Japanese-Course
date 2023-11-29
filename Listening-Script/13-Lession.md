@@ -11,3 +11,19 @@
 - C: Tất cả là 1680 yên
 - B: Xin lỗi. Nhờ anh chị tính riêng dùm
 - C: Vâng, cơm suất [tenpura] là 980 yên, cơm thịt bò là 700 yên.
+
+### Luyện tập
+#### Mẫu đàm thoại 1
+- A: Xin lỗi, đây là kênh chào buổi sáng, bây giờ bạn đang muốn thứ gì nhất ?
+- B: Tôi muốn căn nhà rộng. Vì căn nhà hiện tại thì hẹp
+- A: Vậy à. Xin cảm ơn bạn rất nhiều
+#### Mẫu đàm thoại 2
+- A: Khát rồi ấy nhĩ.
+- B: Ừ, bạn muốn uông cái gì nhĩ
+- A: Uống cái gì đó ở đằng kia không?
+- B: ừ, nhất trí vậy đi
+#### Mẫu đàm thoại 3
+- A: Cuối tuần bạn đã làm gì vậy ?
+- B: Tôi đã đến Nara để chơi
+- A: Bạn thấy sao ?
+- B: Rất là vui
