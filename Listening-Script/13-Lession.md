@@ -82,4 +82,13 @@
 - A: Vậy thì, cũng nhau uống thôi.
    
 #### Câu 3
+##### Mẫu
+- B: A, mirasan, về việc đi công tác tuần sau.
+- A: Xin lỗi, từ giờ tôi đi dến phòng họp. Tôi ở phòng họp tầng 3 cũng với trưởng phòng đến 11 h
+- B: Tôi hiểu rồi, vậy hẹn gặp sau
+##### 1)
+- A: satosan, từ bây giờ tôi dến sân bay dể đón người của công ty điện Power
+- B: Khoảng mấy giờ bạn sẽ trở về ?
+- A: Ừ nhĩ, khoảng 1 giờ nha
+- B: Tôi đã hiểu rồi. Bạn hãy đi đi 
 #### Câu 4
