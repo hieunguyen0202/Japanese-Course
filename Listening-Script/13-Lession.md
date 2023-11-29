@@ -30,9 +30,24 @@
 
 ### Luyện nghe
 #### Câu 1
+##### Mẫu
 - A: koyamasan, công việc của bạn như thế nào ?
 - B: Bận rộn mỗi ngày đấy. Thứ 7 cũng làm việc, CN cũng làm . Tôi muốn có ngày nghỉ
-- A: Vậy à?. Vất vả nhĩ. 
+- A: Vậy à?. Vất vả nhĩ.
+##### 1)
+- A: wa, nhà của koyamasan nhộn nhịp nhĩ.
+- B: Vâng, vì có 3 đứa con. Nhưng, tôi muốn khoảng 6 đứa con.
+- A: Hả, vì sao vậy ?
+- B: Tôi không có anh em. Vì chỉ có tôi và bố mẹ nên rất cô đơn. Nên tôi thích gia đình náo nhiệt đấy.
+- A: Um. Vậy à ?
+##### 2)
+- C: Vâng, xin mời dùng trà.
+- A: A, xin nhận ạ. Mọi người, khỏe nhĩ
+- C: Vâng, Vì lúc nào cũng chơi trong nhà, nên muốn có một vườn rộng.
+- A: Vậy à ?
+##### 3)
+
 #### Câu 2
+- A: 
 #### Câu 3
 #### Câu 4
