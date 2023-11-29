@@ -46,8 +46,13 @@
 - C: Vâng, Vì lúc nào cũng chơi trong nhà, nên muốn có một vườn rộng.
 - A: Vậy à ?
 ##### 3)
-
+- A: Jiro. Tuần tới là sinh nhật của bạn nhĩ. Bạn muốn quà gì nào ?
+- D: Ừ, thích tiền. Muốn có tiền.
+- A: Hả, vì sao vậy ?
+- D: Đi đến công viên giải trí Disney cùng bạn
+- A: Vậy à ?
 #### Câu 2
-- A: 
+##### Mẫu
+
 #### Câu 3
 #### Câu 4
