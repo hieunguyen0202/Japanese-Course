@@ -90,5 +90,25 @@
 - A: satosan, từ bây giờ tôi dến sân bay dể đón người của công ty điện Power
 - B: Khoảng mấy giờ bạn sẽ trở về ?
 - A: Ừ nhĩ, khoảng 1 giờ nha
-- B: Tôi đã hiểu rồi. Bạn hãy đi đi 
+- B: Tôi đã hiểu rồi. Bạn hãy đi đi
+##### 2)
+- A: Từ bây , tôi đi ăn.
+- B: Cơm trưa đúng không? Trễ nhĩ
+- A: Vì hôm nay tôi bận việc một chút. Tôi đi đến tiệm ca-ri gần đó
+- B: Tôi hiểu rồi, bạn hãy đi đi
+##### 3)
+- A: 5 giờ rồi nhĩ. Vậy thì, xin phép về trước
+- B: Hôm nay, về sớm nhĩ
+- A: Vâng, vì hôm nay tôi có hẹn với bạn. Tôi đi bơi một chút
+- B: Hả , bạn đi đâu ?
+- A: Hồ bơi của khách sạn . Khách sạn mới nằm ở trước nhà ga đấy
+- B: A, vậy à . Vậy thì hẹn gặp lại vào ngày mai
 #### Câu 4
+##### Mẫu
+- A: Dạ, tôi xin lỗi nhờ tí. Bạn là người Nhật hả ?
+- B: Vâng, đúng rồi
+- A: Đến để du lịch phải không
+- B: Không phải, công việc á . Tôi đến để dạy tiếng Nhât
+- A: Vậy à . Bạn dạy ở đâu vậy ?
+- B: Tôi dạy cho bọn trẻ ở trường học trong thành phố này
+   
