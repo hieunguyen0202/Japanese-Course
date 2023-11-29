@@ -27,3 +27,10 @@
 - B: Tôi đã đến Nara để chơi
 - A: Bạn thấy sao ?
 - B: Rất là vui
+
+### Luyện nghe
+#### Câu 1
+
+#### Câu 2
+#### Câu 3
+#### Câu 4
