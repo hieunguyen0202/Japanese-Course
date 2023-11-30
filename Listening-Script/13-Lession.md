@@ -54,19 +54,31 @@
 #### Câu 1
 ##### Mẫu
 - A: koyamasan, công việc của bạn như thế nào ?
+- 小山さん、おしごとは　どうでしたか？
 - B: Bận rộn mỗi ngày đấy. Thứ 7 cũng làm việc, CN cũng làm . Tôi muốn có ngày nghỉ
+- まいにち　いそがしかったですよ。土曜日は　しごと　。日曜日は　しょごと。　やすみが　ほうしです。
 - A: Vậy à?. Vất vả nhĩ.
+- そうですか？　たいへんですね。
 ##### 1)
 - A: wa, nhà của koyamasan nhộn nhịp nhĩ.
+- わあ、こやまさんのうちは　にぎやかですね。
 - B: Vâng, vì có 3 đứa con. Nhưng, tôi muốn khoảng 6 đứa con.
+- はい、こどもが　３にん　いますから。でも、こどもが　６にん　くらい　ほうしです。
 - A: Hả, vì sao vậy ?
+- えつ、どしてですか？
 - B: Tôi không có anh em. Vì chỉ có tôi và bố mẹ nên rất cô đơn. Nên tôi thích gia đình náo nhiệt đấy.
+- きょうだいがいません。私と　りょうしん　だけでしたから、　さびしかったです。にぎやかなかぞくがすきですよ。
 - A: Um. Vậy à ?
+- ふーん、そうですか？
 ##### 2)
 - C: Vâng, xin mời dùng trà.
+- はい、おちゃをどうぞ。
 - A: A, xin nhận ạ. Mọi người, khỏe nhĩ
+- あ、いたらきます。みんな、げんきですね
 - C: Vâng, Vì lúc nào cũng chơi trong nhà, nên muốn có một vườn rộng.
+- はい、いつもうちのなかで　あそびますから、ひろいにわがほうしです。
 - A: Vậy à ?
+- そうですか？
 ##### 3)
 - A: Jiro. Tuần tới là sinh nhật của bạn nhĩ. Bạn muốn quà gì nào ?
 - D: Ừ, thích tiền. Muốn có tiền.
