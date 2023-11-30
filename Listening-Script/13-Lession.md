@@ -26,18 +26,29 @@
 ### Luyện tập
 #### Mẫu đàm thoại 1
 - A: Xin lỗi, đây là kênh chào buổi sáng, bây giờ bạn đang muốn thứ gì nhất ?
+- すみません、「おはよう」テレビ、今、なにがいちばん　ほうしですか？
 - B: Tôi muốn căn nhà rộng. Vì căn nhà hiện tại thì hẹp
+- ひろいうちがほうしです。今のうちは　せまいですから。
 - A: Vậy à. Xin cảm ơn bạn rất nhiều
+- そうですか？　ども、ありがとうございました。
 #### Mẫu đàm thoại 2
 - A: Khát rồi ấy nhĩ.
+- のどが　かわきましたね。
 - B: Ừ, bạn muốn uông cái gì nhĩ
+- ええ、なにがのみたいですね。
 - A: Uống cái gì đó ở đằng kia không?
+- あそこで　なにかのみませんか？
 - B: ừ, nhất trí vậy đi
+- ええ、そう　しましょう
 #### Mẫu đàm thoại 3
 - A: Cuối tuần bạn đã làm gì vậy ?
+- しゅうまつ、なにをしましたか？
 - B: Tôi đã đến Nara để chơi
+- ならへあそびにいきました。
 - A: Bạn thấy sao ?
+- どうしたか？
 - B: Rất là vui
+- とても　たのしかったです。
 
 ### Luyện nghe
 #### Câu 1
