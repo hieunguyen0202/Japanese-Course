@@ -159,42 +159,70 @@
 - わかりますた。いつていらつしゃい
 ##### 2)
 - A: Từ bây , tôi đi ăn.
+- これから、しょくじに行きます。
 - B: Cơm trưa đúng không? Trễ nhĩ
+- ひるごはんですか？　おそいですね。
 - A: Vì hôm nay tôi bận việc một chút. Tôi đi đến tiệm ca-ri gần đó
+- ちょうと　いそがしいですから。　ちかくのカレーやへ行きます。
 - B: Tôi hiểu rồi, bạn hãy đi đi
+- わかりました。　いつていらつしゃい
 ##### 3)
 - A: 5 giờ rồi nhĩ. Vậy thì, xin phép về trước
+- ごじですね。　じゃ、しつれします。
 - B: Hôm nay, về sớm nhĩ
+- きょう、はやいですね。
 - A: Vâng, vì hôm nay tôi có hẹn với bạn. Tôi đi bơi một chút
+- はい、ともだちと　やくそくがありますから。ちょうと　およぎに行きます。
 - B: Hả , bạn đi đâu ?
+- えつ、どこへ？
 - A: Hồ bơi của khách sạn . Khách sạn mới nằm ở trước nhà ga đấy
+- ホテルのブール　です。えきのまえのあたらしいホテル　ですよ
 - B: A, vậy à . Vậy thì hẹn gặp lại vào ngày mai
+- あ、そうですか。　じゃ、またあした。
 #### Câu 4
 ##### Mẫu
 - A: Dạ, tôi xin lỗi nhờ tí. Bạn là người Nhật hả ?
+- はい、しつれですが、日本人のかたですか？
 - B: Vâng, đúng rồi
+- はい、そうです。
 - A: Đến để du lịch phải không
+- りょうりに行きますか？
 - B: Không phải, công việc á . Tôi đến để dạy tiếng Nhât
+- いいえ、おしごとです。日本語を　おしえに　行きました。
 - A: Vậy à . Bạn dạy ở đâu vậy ?
+- そうですか。　どこで　おしえますか？
 - B: Tôi dạy cho bọn trẻ ở trường học của thành phố này
+- このまちのがつこうで　こどもにおしえます。
 ##### 1)
 - A: Xin lỗi, thành phố này là lần đầu tiên bạn đến phải không ?
+- すみません、このまちは　はじめてですか？
 - B: Vâng
+- はい、
 - A: Công việc của bạn là gì ?
+- おしごとですか？
 - B: Vâng, tôi là nghiên cứu sinh. Tôi đến để nghiên cứu về mỹ thuật
+- はい、わたしは　けんきゅうしゃです。びじゅつのけんきゅうに行きました。
 - A: Vậy à
 ##### 2)
 - A: Dạ, bạn đến cho du lịch hay là công việc ?
+- ええ、りよこうですか？　おしごとですか？　
 - B: Tôi đến để học âm nhạc
+- おんがくを勉強に　いきました。
 - A: À, Bạn là học sinh đúng không ?
+- 学生ですか？
 - B: Vâng, vì có một giáo viên nổi tiếng ở thành phố này nên tôi đến học ca hát
+- はい、このまちで　ゆいめいな　先生　がいますから。うたをならいます。
 - A: Vậy à ?
 ##### 3)
 - A: Vâng, xin lỗi, bạn đến để du lịch hả ?
 - B: không phải, vì công việc . vì tôi muốn viết sách về du lịch nên tôi đã đi đến để xem nhiều thành phố
+- いいえ、しごとです。　りよこうの本をかきますから。いろいろなまちをみに行きました。
 - A: Bạn ở đây khoảng mấy ngày á ?
+- 何日ぐらいですか？
 - B: Tôi ở đây 2 tuần. Vì cũng muốn chụp nhiều ảnh
+- ２しゅうかんです。　じゃしんも　たくさんとりますから。
 - A: Vậy thì , bạn bận rộn nhĩ !
+- じゃ、いそがしいですね。
    
 
 ### -----------------------------------------------------
