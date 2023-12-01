@@ -81,21 +81,33 @@
 - そうですか？
 ##### 3)
 - A: Jiro. Tuần tới là sinh nhật của bạn nhĩ. Bạn muốn quà gì nào ?
+- じろ、らいしゅうは　たんじょうびね。どんな　ブレスレットがほうしですか？
 - D: Ừ, thích tiền. Muốn có tiền.
+- ええ、おかねがすきです。おかねがほうしです。
 - A: Hả, vì sao vậy ?
+- えつ、どしてですか？
 - D: Đi đến công viên giải trí Disney cùng bạn
 - A: Vậy à ?
+- そうですか？
 #### Câu 2
 ##### Mẫu
 - A: tanakasan, hôm nay bạn làm gì vậy ?
+- たなかさん、きょうは　なにをしますか？
 - B: ừ nhĩ. Tôi muốn xem tranh
-- A: Vậy thì, chúng ta cùng đến bảo tàng mỹ thuật nhé. Vì có nhiều tranh nổi tiếng. 
+- そうですね。わたしも　えがみまたいです。
+- A: Vậy thì, chúng ta cùng đến bảo tàng mỹ thuật nhé. Vì có nhiều tranh nổi tiếng.
+- じゃ、びじゅつかんへ行きましょう。ゆいめいなえが　たくさんありますから。
 ##### 1)
 - A: Đã 12 giờ rồi nhĩ. Cùng nhau ăn cơm trưa không ?
+- もう、１２じ　ですね。　ひるごはんをたべませんか？
 - B: Vâng
+- はい。
 - A: Thích làm/ăn gì không ?
+- なにがほうしですか？　・　なにがたべたいですか？
 - B: Ừ nhĩ, thích ăn món cá.
+- そうですね。さかなが　たべたいです。
 - A: Vậy thì, có nhà hàng món cá ngon đấy
+- じゃ、さかな　の　レストランが　いいですよ。
 
 ##### 2)
 - B: Wa, ngon nhĩ. Nhà hàng tuyệt vời nhĩ.
