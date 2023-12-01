@@ -111,32 +111,52 @@
 
 ##### 2)
 - B: Wa, ngon nhĩ. Nhà hàng tuyệt vời nhĩ.
+- わあ、おいしいですね。　すてきな　レストラン　ですね。
 - A: Vâng, tốt nhĩ. Từ giờ, sẽ đi đâu ?
+- は、いいですね。　これから、どこへ？
 - B: Tôi muốn đi dạo một chút. Tôi cũng muốn chụp ảnh thành phố cổ nữa.
+- ちょうと、さんぽしたいです。わたしも　ひるいまちの　えがとりたいです。
 - A: Vậy thì, chúng ta cùng nhau đi dạo một chút thôi
+- じゃ、ちょうと　さんぽしましょう。
 
 ##### 3)
 - A: Um, mình muốn mua quà tăng nhưng cái nào được nhĩ.
+- ふーん、おみやげ　が　かいたいですが　なにが　いいですか？
 - B: Có đa dạng đấy. Đồ ăn, áo , giày ...
+- いろいろな　ありますよ。りょうり、シャツ、くつ。。。
 - A: Ừ nhĩ. Tôi muốn có một cái áo tuyệt vời.
+- そうですね。すてきな　シャツが　ほうしです。
 - B: Tôi hiểu rồi. Vậy thì, cũng nhau đi thôi.
+- わかりますた。じゃ、行きましょう。
 ##### 4)
 - A: Tôi đã khát nước rồi. Cũng nhau uống gì đó không ?
+- のどが　かわきましたね。　なにをのみませんか？
 - B: Vâng, bia của thành phố này nổi tiếng nhĩ
+- はい、このビール　は　ゆいめいですね。
 - A: Bia màu đen nhĩ. Ngon đấy
+- くろいビール　ですね。　いいですよ。
 - B: Vậy thì, tôi muốn uống bia màu đen
+- じゃ、くろいビールがのみたいです。
 - A: Vậy thì, cũng nhau uống thôi.
+- じゃ、飲みましょう。
    
 #### Câu 3
 ##### Mẫu
 - B: A, mirasan, về việc đi công tác tuần sau.
+- あ、ミラーさん、らいしゅう　しゅうちょう　ですが。。
 - A: Xin lỗi, từ giờ tôi đi dến phòng họp. Tôi ở phòng họp tầng 3 cũng với trưởng phòng đến 11 h
+- すみません、これから、かいぎしつへ行きます。１１じまで　ぶちょうと　３がいのかいぎしつに　います。
 - B: Tôi hiểu rồi, vậy hẹn gặp sau
+- わかりますた。またあした。
 ##### 1)
 - A: satosan, từ bây giờ tôi dến sân bay dể đón người của công ty điện Power
+- さとさん、これから　くうこうへ　powerでんきの人をむかえに行きます。
 - B: Khoảng mấy giờ bạn sẽ trở về ?
+- なんじごろ　帰りますか？
 - A: Ừ nhĩ, khoảng 1 giờ nha
+- そうですね、１じごろです。
 - B: Tôi đã hiểu rồi. Bạn hãy đi đi
+- わかりますた。いつていらつしゃい
 ##### 2)
 - A: Từ bây , tôi đi ăn.
 - B: Cơm trưa đúng không? Trễ nhĩ
