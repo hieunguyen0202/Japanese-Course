@@ -13,11 +13,19 @@
 
 ### Luyện tập
 #### Mẫu đàm thoại 1
-
+- Excuse me.
+- Yes
+- Please lend me your pen for a moment
+- Yes. Here it is
 #### Mẫu đàm thoại 2
-
+- There's too much furniture
+- I'll carry one
+- Sorry. Thank you
 #### Mẫu đàm thoại 3
-
+- Come on, let's go
+- Uh, Mr. Miller isn't here
+- Taking picture over there
+- Sorry, please call him for me
 
 ### Luyện nghe
 #### Câu 1
