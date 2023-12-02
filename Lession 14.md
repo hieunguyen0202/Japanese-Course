@@ -1,3 +1,52 @@
+- Bật điện máy điều hòa : つけます
+- Tắt điện máy điều hòa　：けします
+- OPen the door:　あけます　 
+- Đóng cửa sổ　：とめます。
+- vội gấp　：いそぎます
+- đợi chờ　まちます
+- mang, cầm　もちます
+- lấy (muối)　とります
+- giúp (làm việc)　てつだいます
+- gọi taxi　よびます。
+- nói, nói chuyện　はなします
+- dùng, sử dụng　つかいます。
+- dừng, đỗ　とめます
+- cho xem, trình　みせます
+- nói, cho biết địa chỉ　　じゅうしょを　おしえます。
+- ngồi　すわります
+- đứng　たちます
+- vào quán giải khát　きつさてんに　はいります。
+- ra khỏi quán　きつさてんを　でます。
+- rơi mưa　あめが　ふります
+- copy　コピーします
+- điện, đèn điện　でんき
+- máy điều hòa　エアコン
+- hộ chiếu　パスポート
+- tên　なまえ
+- địa chỉ　じゅうしょ
+- bản đồ　ちず
+- muối　しお
+- đường　さとう
+- câu hỏi, vấn đề　もんだい
+- câu trả lời　こたえ
+- cách đọc　よみかた
+- cách　かた
+- thẳng　まつすぐ
+- chậm, thong thả thoải mái　ゆつくり
+- ngay lập tức　すぐ
+- lại (đến)　また
+- sau　あとで
+- thêm một chút nữa　もうすこし
+- thêm ~　　もう
+- thôi/nào (dùng để thúc giục or khuyên nhủ ai đó)　さあ
+- Ôi ! (cảm thấy phát hiện điều gì đáng bất ngờ)　あれ？
+- Gửi anh tiền này　これで　おねがいします
+- Tiền lẻ　おつり
+ 
+
+
+#### --------------------------------------------------
+
 - Bật điện máy điều hòa
 - Tắt điện máy điều hòa
 - Mở cửa sổ
@@ -43,7 +92,3 @@
 - Gửi anh tiền này
 - Tiền lẻ
 - Gửi ảnh tiền này 
-- 
-
-- 
-- 
