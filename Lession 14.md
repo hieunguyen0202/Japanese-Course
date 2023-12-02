@@ -1,7 +1,7 @@
 - Bật điện máy điều hòa : つけます
 - Tắt điện máy điều hòa　：けします
 - OPen the door:　あけます　 
-- Đóng cửa sổ　：とめます。
+- Đóng cửa sổ　：しめます。
 - vội gấp　：いそぎます
 - đợi chờ　まちます
 - mang, cầm　もちます
