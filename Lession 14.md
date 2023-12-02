@@ -18,6 +18,31 @@
 - vào quán giải khát
 - ra khỏi quán
 - rơi mưa
+- copy
+- điện, đèn điện
+- máy điều hòa
+- hộ chiếu
+- tên
+- địa chỉ
+- bản đồ
+- muối
+- đường
+- câu hỏi, vấn đề
+- câu trả lời
+- cách đọc
+- cách
+- thẳng
+- chậm, thong thả thoải mái
+- ngay lập tức
+- lại (đến)
+- sau
+- thêm một chút nữa
+- thêm ~
+- thôi/nào (dùng để thúc giục or khuyên nhủ ai đó)
+- Ôi ! (cảm thấy phát hiện điều gì đáng bất ngờ)
+- Gửi anh tiền này
+- Tiền lẻ
+- Gửi ảnh tiền này 
 - 
 
 - 
