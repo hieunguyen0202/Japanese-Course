@@ -1,1 +1,24 @@
+- Bật điện máy điều hòa
+- Tắt điện máy điều hòa
+- Mở cửa sổ
+- Đóng cửa sổ
+- vội gấp
+- đợi chờ
+- mang, cầm
+- lấy (muối)
+- giúp (làm việc)
+- gọi taxi
+- nói, nói chuyện
+- dùng, sử dụng
+- dừng, đỗ
+- cho xem, trình
+- nói, cho biết địa chỉ
+- ngồi
+- đứng
+- vào quán giải khát
+- ra khỏi quán
+- rơi mưa
+- 
 
+- 
+- 
