@@ -35,12 +35,23 @@
 - Sorry. This luggage is very heavy. Please help me a little - Xin lỗi, hành lý này rất này. Hãy phụ tôi một chút
 - That's okay - Được thôi mà
 ##### 1)
-- 
+- It's a bit hot - Trời hơi nóng nhĩ
+- Well then, can I turn on the air conditioner? - vậy thì, để tôi bật điều hòa được không
+- Ah, I'm not used to the air conditioner. Please open the window - à, tôi, máy lạnh không quen lắm.. Làm ơn hãy mở cửa sổ đi
+- Yes - Vâng 
 ##### 2)
-
+- wow, that mountain is beautiful. Please stop the car for a moment - wa, ngon núi kia đẹp nhĩ. Làm ơn dừng xe lại một chút.
+- Yes - Vâng
+- Please take me a picture by using this phone - Hãy chụp hình tôi bằng chiếc điện thoại cầm tay này.
+- That's okay - Được thôi mà
 
 ##### 3)
-
+- Near here, do you know the way ? Ở gần đây, bạn có biết đường không
+- Because I've been there once, I know a little. Vì tôi đã đến một lần nên biết đại khái
+- Ah, there's a traffic light over there - À, có đèn giao thông ở đằng kia. PLease turn left at that trafic light - Hãy rẽ sang trái của đèn tín hiệu giao thông đó.
+- Yes, left side, right ?  Go straight, right? đi thẳng phải không ?\
+- Stop your car in front of the post office there - Hãy dừng xe lại trước bưu điện kia
+- Yes - Vâng
 #### Câu 2
 ##### Mẫu
 
