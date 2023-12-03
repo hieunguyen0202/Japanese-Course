@@ -35,7 +35,7 @@
 - Sorry. This luggage is very heavy. Please help me a little - Xin lỗi, hành lý này rất này. Hãy phụ tôi một chút
 - That's okay - Được thôi mà
 ##### 1)
-
+- 
 ##### 2)
 
 
