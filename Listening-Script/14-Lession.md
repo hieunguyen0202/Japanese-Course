@@ -30,7 +30,10 @@
 ### Luyện nghe
 #### Câu 1
 ##### Mẫu
-
+- Please take me to Kobe - Làm ơn cho tôi đến Kobe
+- Welcome - Xin mời quý khách
+- Sorry. This luggage is very heavy. Please help me a little - Xin lỗi, hành lý này rất này. Hãy phụ tôi một chút
+- That's okay - Được thôi mà
 ##### 1)
 
 ##### 2)
